@@ -1,6 +1,6 @@
 # Privacy policy — Drive Peek
 
-Last updated: 2026-11-02
+Last updated: 2026-11-03
 
 ## Summary
 
@@ -45,7 +45,7 @@ HTML: an HTML file is shown inside an isolated sandbox page of the extension, wh
 
 JSON: shown as an escaped tree or text; it loads nothing from other sites.
 
-Code (source files such as .js, .ts, .py, .java, .php, .go, .rb, .cs, .cpp, .c, .dart, .ex, .erl, .sh, .m, .swift, .pl, .scss, .css, .scala, .sql, .xml, .tf, .dockerfile, .rst, .sol, Dockerfile): shown as escaped, syntax-highlighted text with line numbers. The highlighting library (highlight.js, BSD-3-Clause) is bundled in the extension and runs on your computer; the file content is not sent anywhere and nothing is loaded from other sites.
+Code (source files such as .js, .ts, .py, .java, .php, .go, .rb, .rs, .cs, .cpp, .c, .dart, .ex, .erl, .sh, .m, .swift, .pl, .scss, .css, .scala, .sql, .xml, .tf, .dockerfile, .sol, Dockerfile): shown as escaped, syntax-highlighted text with line numbers. The highlighting library (highlight.js, BSD-3-Clause) is bundled in the extension and runs on your computer; the file content is not sent anywhere and nothing is loaded from other sites.
 
 ## Changes and contact
 
